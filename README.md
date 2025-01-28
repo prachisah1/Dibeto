@@ -98,10 +98,7 @@ The model is trained using the [Pima Indians Diabetes Database](https://www.kagg
 
 ## Results
 The model achieved:
-- **Accuracy:** X% (replace with actual value)
-- **Precision:** Y% (replace with actual value)
-- **Recall:** Z% (replace with actual value)
-
+- **Accuracy:** 75% (replace with actual value)
 ---
 
 ## Future Improvements
